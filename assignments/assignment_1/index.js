@@ -14,7 +14,7 @@ function getNameFromEnv() {
 function getNameFromReadLine() {
     // Write your code here
     const rl = require('readline').createInterface({
-        input: process.stdin,
+         input: process.stdin,
         output: process.stdout
     })
 
