@@ -2,8 +2,7 @@
 
 ## Curated list of NodeJs Assignments
 
-<br />  
-  
+<br />  run 
 [Assignments:](assignments)
 * [Command Line Args | Env Vars | Readline](assignments/assignment_1/assignment_1.md)
 * [Simple HTTP Server](assignments/assignment_2/assignment_2.md)
